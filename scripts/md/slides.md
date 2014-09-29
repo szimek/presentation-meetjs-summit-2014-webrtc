@@ -275,7 +275,7 @@ content_class: flexbox vcenter
 class: nobackground
 content_class: flexbox vcenter
 
-<video data-src="images/videos/webrtc-translate-demo.mp4" controls="controls" style="height: 100%;">
+<iframe width="640" height="480" src="//www.youtube.com/embed/R8ejjVAZweg?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -307,7 +307,7 @@ content_class: flexbox vcenter
 class: nobackground
 content_class: flexbox vcenter centered
 
-<a href="https://webrtc-twilio.herokuapp.com"><img data-src="images/slides/webrtc-twilio-client.png" style="width: 100%;"></a>
+<a href="https://github.com/szimek/webrtc-twilio-client"><img data-src="images/slides/webrtc-twilio-client.png" style="width: 100%;"></a>
 
 ---
 
